@@ -4,6 +4,7 @@
 
 **Java / Spring Boot · Angular / React · Docker / Kubernetes · IA appliquée**
 
+[![Site](https://img.shields.io/badge/Site-massekaacademy.com-F97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://massekaacademy.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@massekaacademy-F97316?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@massekaacademy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanos%20Langate-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stepnanos-l-988054114)
 [![E-mail](https://img.shields.io/badge/E--mail-stephzoux@gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephzoux@gmail.com)
@@ -16,7 +17,7 @@
 
 Développeur full stack depuis 7 ans, je conçois des applications de bout en bout : API Java et Spring Boot, interfaces Angular et React, déploiement Docker et Kubernetes dans le cloud.
 
-Je suis aussi **enseignant permanent et responsable du programme IAGE à l'ISI Dakar**, formateur à l'**ESMT**, et certifié en approche par compétences (APC). Avec **[Masseka Academy](https://www.youtube.com/@massekaacademy)**, j'apprends à coder en français, du grand débutant au professionnel.
+Je suis aussi **enseignant permanent et responsable du programme IAGE à l'ISI Dakar**, formateur à l'**ESMT**, et certifié en approche par compétences (APC). Avec **[Masseka Academy](https://massekaacademy.com)**, j'apprends à coder en français, du grand débutant au professionnel : formations, services tech et IA sur **[massekaacademy.com](https://massekaacademy.com)**.
 
 - 🔭 En ce moment : la plateforme Masseka Academy (React, Spring Boot) et des parcours Spring AI
 - 🌱 J'approfondis : Spring AI, RAG, agents IA, Kubernetes
@@ -66,6 +67,6 @@ Je suis aussi **enseignant permanent et responsable du programme IAGE à l'ISI D
 
 <div align="center">
 
-**Tu veux apprendre à coder ou lancer un projet ?** Écris-moi : [stephzoux@gmail.com](mailto:stephzoux@gmail.com)
+**Tu veux apprendre à coder ou lancer un projet ?** Rendez-vous sur [massekaacademy.com](https://massekaacademy.com) ou écris-moi : [stephzoux@gmail.com](mailto:stephzoux@gmail.com)
 
 </div>
