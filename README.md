@@ -50,9 +50,12 @@ Je suis aussi **enseignant permanent et responsable du programme IAGE à l'ISI D
 
 ### 📺 Dernières vidéos Masseka Academy
 
-<!-- YOUTUBE:START -->
-<!-- Rempli automatiquement par l'action « blog-post-workflow » (voir le plan d'amélioration) -->
-<!-- YOUTUBE:END -->
+- 🎬 [Les branches Git expliquées : merge, stash, conflits et pull request (épisode 2)](https://www.youtube.com/watch?v=kQJKEcg4l1o)
+- 🎬 [Git & GitHub : les bases solides en 25 min (épisode 1)](https://www.youtube.com/watch?v=_UTjcl8c4Qc)
+- 🎬 [Faille critique PHP (PHP2Shell) : mettez à jour maintenant](https://www.youtube.com/watch?v=syWpPIouLYU)
+- 🎬 [Java orienté objet (GL2)](https://www.youtube.com/watch?v=94p9FV2c7tk)
+
+➡️ [Toutes les vidéos sur la chaîne](https://www.youtube.com/@massekaacademy)
 
 ### 📊 Activité
 
